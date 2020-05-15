@@ -15,8 +15,6 @@ You are a slodier and a magician, thanks to the skill tree, you can learn skill 
 ### Inventory & Skill tree
 ![github-small](https://portfolio-martin-rougeron.netlify.app/Illustration/Rpg/Inventroy.png)
 ![github-small](https://portfolio-martin-rougeron.netlify.app/Illustration/Rpg/skill%20tree.png)
-### Map
-![github-small](https://portfolio-martin-rougeron.netlify.app/Illustration/Rpg/minimap.png)
 
 ## Requirements
   make

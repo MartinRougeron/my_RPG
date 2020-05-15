@@ -1,9 +1,9 @@
 # My_RPG
 Game realise by Renaud de Leiris, Jocelin Lelievre, Alexandre Calmels and me.
 ## Ghost of Lies
-It's a rpg game were you're a solider in a fantasy world. Your goal: kill the 2 bosses.	
+It's a rpg game were you're a soldier in a fantasy world. Your goal: kill the 2 bosses.	
 ## Game features
-You are a slodier and a magician, thanks to the skill tree, you can learn skill and improve your solider or your magician side.
+You are a soldier and a magician, thanks to the skill tree, you can learn skill and improve your soldier or your magician side.
 ![github-small](https://portfolio-martin-rougeron.netlify.app/Illustration/rpg.png)
 ### Map
 ![github-small](https://portfolio-martin-rougeron.netlify.app/Illustration/Rpg/minimap.png)
